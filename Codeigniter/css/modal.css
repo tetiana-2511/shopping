@@ -1,0 +1,53 @@
+#win_modalAdd, #modalCategory {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.5);
+}
+
+.outer {
+	display: table;
+	width: 100%;
+	height: 100%;
+}
+
+.middle {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.inner {
+  width: calc(100% - 30px);
+}
+
+form{
+	padding: 15px;
+}
+
+.content {
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: #fefefe;
+  border: 1px solid #999;
+}
+
+.close {
+  color: #909bb5;
+  float: right;
+  padding: 10px 10px 0 0;
+  font-size: 28px;
+  font-weight: 600;
+}
+#saveShopping, #saveCategory{
+	margin-top: 10px;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+

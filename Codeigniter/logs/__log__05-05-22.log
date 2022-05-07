@@ -1,0 +1,327 @@
+2022.05.05 10:36:46 pid:5760: 'data from request is not correct'
+2022.05.05 10:36:46 pid:5760: Array
+(
+    [item_name] => 
+    [category] => Техніка
+    [status] => Not bougth
+)
+2022.05.05 10:36:46 pid:5760: 'data from request is not correct'
+2022.05.05 10:36:46 pid:5760: Array
+(
+    [item_name] => 
+    [category] => Техніка
+    [status] => Not bougth
+)
+2022.05.05 12:23:21 pid:2060: 'data from request is not correct'
+2022.05.05 12:23:21 pid:2060: Array
+(
+    [category] => 0
+    [status] => Not bougth
+)
+2022.05.05 13:25:04 pid:2060: 'data from request is not correct'
+2022.05.05 13:25:04 pid:2060: Array
+(
+    [category] => 0
+    [status] => 
+)
+2022.05.05 13:34:08 pid:2060: 'data from request is not correct'
+2022.05.05 13:34:08 pid:2060: Array
+(
+    [item_name] => 
+    [category] => 
+    [status] => Not bougth
+)
+2022.05.05 13:34:08 pid:2060: 'data from request is not correct'
+2022.05.05 13:34:08 pid:2060: Array
+(
+    [item_name] => 
+    [category] => 
+    [status] => Not bougth
+)
+2022.05.05 13:34:08 pid:2060: 'data from request is not correct'
+2022.05.05 13:34:08 pid:2060: Array
+(
+    [item_name] => 
+    [category] => 
+    [status] => Not bougth
+)
+2022.05.05 13:34:55 pid:2060: 'data from request is not correct'
+2022.05.05 13:34:55 pid:2060: Array
+(
+    [item_name] => 
+    [category] => 
+    [status] => Not bougth
+)
+2022.05.05 13:34:55 pid:2060: 'data from request is not correct'
+2022.05.05 13:34:55 pid:2060: Array
+(
+    [item_name] => 
+    [category] => 
+    [status] => Not bougth
+)
+2022.05.05 17:13:45 pid:2060: TRUE
+2022.05.05 17:26:05 pid:2060: 'data from request is not correct'
+2022.05.05 17:26:05 pid:2060: Array
+(
+)
+2022.05.05 17:27:48 pid:2060: 'data from request is not correct'
+2022.05.05 17:27:48 pid:2060: Array
+(
+)
+2022.05.05 17:28:17 pid:2060: 'data from request is not correct'
+2022.05.05 17:28:17 pid:2060: Array
+(
+)
+2022.05.05 17:30:20 pid:2060: 'data from request is not correct'
+2022.05.05 17:30:20 pid:2060: Array
+(
+)
+2022.05.05 17:30:38 pid:2060: 'data from request is not correct'
+2022.05.05 17:30:38 pid:2060: Array
+(
+)
+2022.05.05 17:34:40 pid:2060: 'data from request is not correct'
+2022.05.05 17:34:40 pid:2060: Array
+(
+    [id] => 47
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 17:34:40 pid:2060: 'data from request is not correct'
+2022.05.05 17:34:40 pid:2060: Array
+(
+    [id] => 2
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 17:34:40 pid:2060: 'data from request is not correct'
+2022.05.05 17:34:40 pid:2060: Array
+(
+    [id] => 46
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 17:34:40 pid:2060: 'data from request is not correct'
+2022.05.05 17:34:40 pid:2060: Array
+(
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 18:45:04 pid:2060: 'data from request is not correct'
+2022.05.05 18:45:04 pid:2060: Array
+(
+    [id] => 26
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 18:46:10 pid:2060: 'data from request is not correct'
+2022.05.05 18:46:10 pid:2060: Array
+(
+    [id] => 26
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 18:48:13 pid:2060: 'data from request is not correct'
+2022.05.05 18:48:13 pid:2060: Array
+(
+    [id] => 2
+    [item_name] => Чіпси
+    [category] => Одяг
+    [status] => 
+)
+2022.05.05 18:54:42 pid:2060: 'data from request is not correct'
+2022.05.05 18:54:42 pid:2060: Array
+(
+    [id] => 2
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 18:54:42 pid:2060: 'data from request is not correct'
+2022.05.05 18:54:42 pid:2060: Array
+(
+    [id] => 2
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 18:54:42 pid:2060: 'data from request is not correct'
+2022.05.05 18:54:42 pid:2060: Array
+(
+    [id] => 2
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 18:54:42 pid:2060: 'data from request is not correct'
+2022.05.05 18:54:42 pid:2060: Array
+(
+    [id] => 37
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 18:54:42 pid:2060: 'data from request is not correct'
+2022.05.05 18:54:42 pid:2060: Array
+(
+    [id] => 2
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 18:54:42 pid:2060: 'data from request is not correct'
+2022.05.05 18:54:42 pid:2060: Array
+(
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 18:54:42 pid:2060: 'data from request is not correct'
+2022.05.05 18:54:42 pid:2060: Array
+(
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 18:59:50 pid:2060: 'data from request is not correct'
+2022.05.05 18:59:50 pid:2060: Array
+(
+    [id] => 43
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 18:59:50 pid:2060: 'data from request is not correct'
+2022.05.05 18:59:50 pid:2060: Array
+(
+    [id] => 37
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 18:59:50 pid:2060: 'data from request is not correct'
+2022.05.05 18:59:50 pid:2060: Array
+(
+    [id] => 43
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 19:04:29 pid:2060: 'data from request is not correct'
+2022.05.05 19:04:29 pid:2060: Array
+(
+    [id] => 37
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 19:04:29 pid:2060: 'data from request is not correct'
+2022.05.05 19:04:29 pid:2060: Array
+(
+    [id] => 38
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 19:04:29 pid:2060: 'data from request is not correct'
+2022.05.05 19:04:29 pid:2060: Array
+(
+    [id] => 26
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 19:04:29 pid:2060: 'data from request is not correct'
+2022.05.05 19:04:29 pid:2060: Array
+(
+    [id] => 26
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 19:04:29 pid:2060: 'data from request is not correct'
+2022.05.05 19:04:29 pid:2060: Array
+(
+    [id] => 37
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 19:04:29 pid:2060: 'data from request is not correct'
+2022.05.05 19:04:29 pid:2060: Array
+(
+    [id] => 37
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 19:04:29 pid:2060: 'data from request is not correct'
+2022.05.05 19:04:29 pid:2060: Array
+(
+    [id] => 37
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 19:04:29 pid:2060: 'data from request is not correct'
+2022.05.05 19:04:29 pid:2060: Array
+(
+    [id] => 2
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 19:04:29 pid:2060: 'data from request is not correct'
+2022.05.05 19:04:29 pid:2060: Array
+(
+    [id] => 2
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 19:04:29 pid:2060: 'data from request is not correct'
+2022.05.05 19:04:29 pid:2060: Array
+(
+    [id] => 26
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 19:04:29 pid:2060: 'data from request is not correct'
+2022.05.05 19:04:29 pid:2060: Array
+(
+    [id] => 26
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 19:08:46 pid:2060: 'data from request is not correct'
+2022.05.05 19:08:46 pid:2060: Array
+(
+    [id] => 26
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 19:10:40 pid:2060: 'data from request is not correct'
+2022.05.05 19:10:40 pid:2060: Array
+(
+    [id] => 37
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
+2022.05.05 19:11:15 pid:2060: 'data from request is not correct'
+2022.05.05 19:11:15 pid:2060: Array
+(
+    [id] => 2
+    [item_name] => 
+    [category] => 
+    [status] => 
+)
