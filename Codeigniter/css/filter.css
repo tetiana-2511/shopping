@@ -1,0 +1,24 @@
+.shoppingData{
+	display: flex;
+	justify-content: flex-start;
+}
+#loading{
+	text-align: center;
+	background: url('<?php echo base_url(); ?> asset/loader.gif') no-repeat center;
+	height: 150px;
+}
+
+.category-group, .status-group{
+	padding-bottom: 20px;
+}
+/*doesnt work*/
+.checkboxCategory, .checkboxStatus{
+	margin-right: 10px;
+}
+.filters{
+	width: 200px;
+}
+.containerTable{
+	width: 900px;
+	padding-left: 50px;
+}
